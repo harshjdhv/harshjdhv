@@ -1,1 +1,2 @@
-21. Engineer in the making. I build things that make life easier.
+21, engineer.
+Building real things.
