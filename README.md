@@ -1,2 +1,1 @@
-21, engineer.<br>
-Building real things.
+building things that feel good to use.
